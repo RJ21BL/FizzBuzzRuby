@@ -1,0 +1,1 @@
+Create a program that returns fizz if the the number is divisable by 3, 'buzz' if divisable by 5, 'fizzbuzz' if divisable by 3 and 5, and return the number if it is not divisable by 3 or 5.
