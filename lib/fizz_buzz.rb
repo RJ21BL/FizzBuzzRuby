@@ -9,7 +9,3 @@ class FizzBuzz
     end
   end
 end
-
-# fizz_buzz = FizzBuzz.new
-# puts fizz_buzz.fizz_or_buzz(3)
-# puts 'Reached this line'
