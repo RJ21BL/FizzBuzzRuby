@@ -1,5 +1,4 @@
 require 'fizz_buzz'
-require 'pry'
 
 describe FizzBuzz do
   describe '#fizz_buzz' do

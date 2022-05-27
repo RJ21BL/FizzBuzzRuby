@@ -1,11 +1,11 @@
 class FizzBuzz
   def fizz_or_buzz(number)
     if number % 3 == 0 && number % 5 == 0
-      'fizzbuzz'
+      p 'fizzbuzz'
     elsif number % 3 == 0
-      'fizz'
+      p 'fizz'
     elsif number % 5 == 0
-      'buzz'
+      p 'buzz'
     end
   end
 end
